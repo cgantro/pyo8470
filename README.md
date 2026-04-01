@@ -1,8 +1,8 @@
 <!-- GitHub README for cgantro -->
 
-<h1 align="center">Hi, I'm cgantro</h1>
+<h2 align="center">cgantro</h2>
 <p align="center">
-  Developer interested in Backend, IoT, and Music Tech
+  Backend · Music Tech · Socket Communication
 </p>
 
 <p align="center">
@@ -11,42 +11,33 @@
 
 ---
 
-## Introduction
+## About Me
 
-안정적으로 동작하는 시스템을 만드는 데 관심이 있습니다.  
-백엔드, 실시간 처리, 그리고 음악 기술이 만나는 지점을 좋아합니다.
+- 백엔드 개발, 음악 관련 기술, 소켓 통신에 관심이 있습니다.
+- C, C++, Python, Spring Boot를 학습하며 네트워크와 서버 구조를 꾸준히 다루고 있습니다.
+- 실시간 데이터 처리와 안정적인 통신 구조를 설계하는 개발자를 지향합니다.
+- SSAFY 14기에서 소프트웨어 역량을 확장하고 있습니다.
 
-## Current Focus
-
-- Embedded Systems
-- Backend Development
-- IoT and device-connected services
-- Music Tech
-
-## Learning
-
-- C
-- C++
-- Python
-- Spring Boot
-
-## Education
-
-- SSAFY 14th (삼성 청년 SW 아카데미)
-
-## Contact
-
-- **cgantro@gmail.com**
+- Email: **cgantro@gmail.com**
 
 ---
 
-## Algorithm
+## Solved.ac
 
 ### Python
 [![Solved.ac Profile - Python](https://mazassumnida.wtf/api/v2/generate_badge?boj=pyo8470)](https://solved.ac/pyo8470)
 
 ### C++
 [![Solved.ac Profile - C++](https://mazassumnida.wtf/api/v2/generate_badge?boj=cgantro)](https://solved.ac/cgantro)
+
+---
+
+## Interests
+
+- Backend
+- Music Tech
+- Socket Communication
+- Real-time Systems
 
 ---
 
@@ -58,5 +49,10 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded-2C3E50?style=flat-square" />
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting.
 </p>
