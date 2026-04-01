@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm cgantro</h1>
 <p align="center">
-  Developer interested in Embedded Systems, Backend, IoT, and Music Tech
+  Developer interested in Backend, IoT, and Music Tech
 </p>
 
 <p align="center">
