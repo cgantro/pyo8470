@@ -3,7 +3,7 @@
 <h2 align="center">👋 Welcome to pyo8470's GitHub Profile</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pyo8470&show_icons=true&theme=radical" alt="pyo8470's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cgantro&show_icons=true&theme=radical" alt="cgantro's GitHub Stats" />
 </p>
 
 ---
